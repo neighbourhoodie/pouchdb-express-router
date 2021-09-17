@@ -6,7 +6,7 @@
   "dependencies": {
     "bluebird": "~2.3.11",
     "body-parser": "~1.9.2",
-    "express": "~4.10.2",
+    "express": "~4.17.1",
     "extend": "~2.0.0",
     "multiparty": "~4.0.0",
     "nodemon": "~1.2.1",
